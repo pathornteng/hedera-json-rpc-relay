@@ -1,4 +1,3 @@
-import { SDKClient } from './sdkClient';
 /*-
  *
  * Hedera JSON RPC Relay
